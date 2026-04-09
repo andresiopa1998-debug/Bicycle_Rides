@@ -1,5 +1,6 @@
 Case Study: Cyclistic Bike-Share Analysis
 Author: Andre Siopa
+LinkedIn: www.linkedin.com/in/andré-siopa-5a9b91324
 
 Tools Used: Python (Pandas, Matplotlib, Seaborn), Google Colab, Google Drive
 
